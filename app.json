@@ -1,7 +1,7 @@
 {
-    "name": "fu*k_github",
+    "name": "Linux Project 001",
     "description": "",
-    "keywords": ["vmess vless trojan shadowsocks socks"],
+    "keywords": ["Linux"],
     "env": {
         "AA": {
             "description": "初阶用户只需修改以下AUUID点击页面最后的Deploy app按钮即可开始部署",
