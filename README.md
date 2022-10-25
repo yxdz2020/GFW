@@ -1,4 +1,3 @@
-## 两个Heroku仓库被封，不玩了。捐赠地址（TRC20）：TScd7U9QUXZVS6DawwoRPHnNminreN4fJp
 
 ## 注意事项
 1）5月8日晚，CloudFlare Workers 的业务域名 Workers.dev 被防火长城 DNS 污染、SNI阻断。
